@@ -2,6 +2,14 @@
 format: 
   html:
     css: style.css
+  pdf: 
+    geometry:
+      - left=2cm
+      - right=2cm
+      - top=2cm
+      - bottom=2cm
+mainfont: "Arial"
+monofont: "Inconsolata"
 ---
 
 ::::{style="font-family: Arial, Helvetica, sans-serif;font-size: 15px"}
@@ -12,13 +20,14 @@ format:
 </div>
 -->
 
+--    
 **Gianluca Baio**    
 *Professor of Statistics and Health Economics* &nbsp; | &nbsp; *Head of Department*
 
 Department of Statistical Science &nbsp; | &nbsp; University College London     
 1-19 Torrington Place, London, [WC1E 7HB](https://goo.gl/maps/tQxmUu8toRjrQYuZ9), UK    
 
-::::{style="margin-top: -10px"}
+:::{style="margin-top: -10px"}
 ![](https://raw.githubusercontent.com/giabaio/icons/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){title="Listen to our departmental podcast"} &ensp; &ensp; ![](https://raw.githubusercontent.com/giabaio/icons/main/sample-space.png){width="20px"} [Sample Space](https://sample-space.org/){title="Read our departmental magazine"}
 :::
 <!--
