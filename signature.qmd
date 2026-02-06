@@ -50,11 +50,9 @@ Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://bo
 
 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
 
-:::{style="font-size: 12px; margin-top: 30px"}
+:::{style="font-size: 12px; margin-top: 10px"}
 For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)     
-
-![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="180px"}     
-
+![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="220px"}     
 *This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
 :::
 
