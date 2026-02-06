@@ -37,7 +37,7 @@ Twitter: [@stats_ucl](https://twitter.com/stats_UCL){target="_blank"} &nbsp; | &
 -->
 
 Telephone: +44(0)20 7679 1248 (internal: 41248)    
-Website: [http://www.homepages.ucl.ac.uk/~ucakgba](http://www.homepages.ucl.ac.uk/~ucakgba){target="_blank"}    
+Website: [https://gianluca.statistica.it](https://gianluca.statistica.it){target="_blank"}    
 Blog: [https://gianluca.statistica.it/blog/](https://gianluca.statistica.it/blog/){target="_blank"}    
 Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://book.morgen.so/gianlucabaio/book-me){target="_blank"}
 
@@ -52,9 +52,13 @@ Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://bo
 
 :::{style="font-size: 12px; margin-top: 30px"}
 For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)     
-![](https://s1g.s3.amazonaws.com/3f32ef1962be41fb8943ee58d28cf3aa.png)     
+
+![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="180px"}     
+
 *This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
 :::
+
+![](https://raw.githubusercontent.com/giabaio/icons/main/ucl200.jpeg)
 ::::
 
 
