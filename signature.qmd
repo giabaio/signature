@@ -13,14 +13,7 @@ monofont: "Inconsolata"
 ---
 
 ::::{style="font-family: Arial, Helvetica, sans-serif;font-size: 15px"}
-
-<!--
-<div style="float: left; margin-right: 20px; margin-top: 0px; margin-bottom:0px;">
-![](https://gianluca.statistica.it/media/img/avatar2.jpg){width="260px"} 
-</div>
--->
-
---    
+&mdash;    
 **Gianluca Baio**    
 *Professor of Statistics and Health Economics* &nbsp; | &nbsp; *Head of Department*
 
@@ -52,7 +45,7 @@ Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://bo
 
 :::{style="font-size: 12px; margin-top: 10px"}
 For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)     
-![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="220px"}     
+![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="220px" style="margin-top: 10px; margin-bottom: 10px"}     
 *This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
 :::
 
