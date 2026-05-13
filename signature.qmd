@@ -21,7 +21,7 @@ Department of Statistical Science &nbsp; | &nbsp; University College London
 1-19 Torrington Place, London, [WC1E 7HB](https://goo.gl/maps/tQxmUu8toRjrQYuZ9), UK    
 
 :::{style="margin-top: -10px"}
-![](https://raw.githubusercontent.com/giabaio/icons/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){title="Listen to our departmental podcast"} &ensp; &ensp; ![](https://raw.githubusercontent.com/giabaio/icons/main/sample-space.png){width="20px"} [Sample Space](https://sample-space.org/){title="Read our departmental magazine"}
+![](https://raw.githubusercontent.com/giabaio/signature/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){title="Listen to our departmental podcast"} &ensp; &ensp; ![](https://raw.githubusercontent.com/giabaio/signature/main/sample-space.png){width="20px"} [Sample Space](https://sample-space.org/){title="Read our departmental magazine"}
 :::
 <!--
 Twitter: [@stats_ucl](https://twitter.com/stats_UCL){target="_blank"} &nbsp; | &nbsp; Instagram: [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank"} &nbsp; | &nbsp; Podcast: [Random Talks](https://soundcloud.com/uclsound/sets/sample-space)
@@ -31,27 +31,30 @@ Twitter: [@stats_ucl](https://twitter.com/stats_UCL){target="_blank"} &nbsp; | &
 
 Telephone: +44(0)20 7679 1248 (internal: 41248)    
 Website: [https://gianluca.statistica.it](https://gianluca.statistica.it){target="_blank"}    
-Blog: [https://gianluca.statistica.it/blog/](https://gianluca.statistica.it/blog/){target="_blank"}    
 Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://book.morgen.so/gianlucabaio/book-me){target="_blank"}
 
-[![](https://raw.githubusercontent.com/giabaio/icons/main/mastodon.png){width="20px"}](https://mas.to/@gianlubaio){target="_blank" title="Follow me on Mastodon"} &nbsp;
-[![](https://raw.githubusercontent.com/giabaio/icons/main/linkedin.png){width="20px"}](https://www.linkedin.com/in/gianluca-baio-b893879/){target="_blank" title="Follow me on LinkedIn"} &nbsp;
-[![](https://raw.githubusercontent.com/giabaio/icons/main/twitter.png){width="20px"}](https://twitter.com/gianlubaio){target="_blank" title="Follow me on Twitter"} &nbsp;
-[![](https://raw.githubusercontent.com/giabaio/icons/main/github.png){width="20px"}](https://github.com/giabaio){target="_blank" title="Check my repos"} &nbsp;
-[![](https://raw.githubusercontent.com/giabaio/icons/main/arxiv.png){width="20px"}](https://arxiv.org/a/baio_g_1.html){target="_blank" title="Read my arxived papers"} &nbsp;
-[![](https://raw.githubusercontent.com/giabaio/icons/main/orcid.png){width="20px"}](https://orcid.org/0000-0003-4314-2570){target="_blank" title="Check out my ORCID profile"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/mastodon.png){width="20px"}](https://mas.to/@gianlubaio){target="_blank" title="Follow me on Mastodon"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/linkedin.png){width="20px"}](https://www.linkedin.com/in/gianluca-baio-b893879/){target="_blank" title="Follow me on LinkedIn"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/twitter.png){width="20px"}](https://twitter.com/gianlubaio){target="_blank" title="Follow me on Twitter"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/github.png){width="20px"}](https://github.com/giabaio){target="_blank" title="Check my repos"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/arxiv.png){width="20px"}](https://arxiv.org/a/baio_g_1.html){target="_blank" title="Read my arxived papers"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/signature/main/orcid.png){width="20px"}](https://orcid.org/0000-0003-4314-2570){target="_blank" title="Check out my ORCID profile"} &nbsp;
 
 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
 
 :::{style="font-size: 12px; margin-top: 10px"}
 For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)     
-![](https://raw.githubusercontent.com/giabaio/icons/main/as-silver.png){width="220px" style="margin-top: 10px; margin-bottom: 10px"}     
+![](https://raw.githubusercontent.com/giabaio/signature/main/as-silver.png){width="220px" style="margin-top: 10px; margin-bottom: 10px"}     
 *This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
 :::
 
-![](https://raw.githubusercontent.com/giabaio/icons/main/ucl200.jpeg)
+![](https://raw.githubusercontent.com/giabaio/signature/main/ucl200.jpeg)
 ::::
 
+<!--
+  This bit used to be in the signature, just after the website, but I don't think there's much point in having it there predominantly, anymore...
+Blog: [https://gianluca.statistica.it/blog/](https://gianluca.statistica.it/blog/){target="_blank"} 
+-->
 
 <!--
 <div><strong><br></strong></div>
